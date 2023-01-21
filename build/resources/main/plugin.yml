@@ -1,0 +1,8 @@
+name: Antiborder-Queue
+main: me.uwuaden.kotlinplugin.Main
+version: 1.0
+author: uwuaden
+libraries:
+  - io.github.monun:kommand-core:2.14.0
+api-version: 1.19
+depend: [kotlin-stdlib, PlaceholderAPI]
